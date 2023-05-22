@@ -58,7 +58,12 @@
 			<!--PAINEL COM LINK PARA OUTRAS PAGINAS-->
             <li><a href="http://localhost:8080/Loginlocadora/admin/topo_admin.php">Home</a></li>
             <li><a href="http://localhost:8080/Loginlocadora/admin/painel/cadastro.php">Cadastrar</a></li> 
+            
             <li><a href="http://localhost:8080/Loginlocadora/admin/painel/exibir.php">Consultar</a></li>
+
+
+            <li><a href="http://localhost:8080/Loginlocadora/admin/painel/alugado.php">Pedidos</a></li>
+
             <li><a href="http://localhost:8080/Loginlocadora/sair.php">Logout</a></li>
         </ul>
     </nav>

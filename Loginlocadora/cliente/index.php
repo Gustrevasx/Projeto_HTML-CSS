@@ -34,7 +34,9 @@ if (mysqli_num_rows($select_veiculo) > 0) {
               <div class="item_veiculo"><strong>MARCA:</strong> <?php echo $dados_veiculo['marca_veiculo'];?></div>
               <div class="item_veiculo"><strong>MODELO:</strong> <?php echo $dados_veiculo['modelo_veiculo'];?></div>
               <div class="item_veiculo"><strong>ANO:</strong> <?php echo $dados_veiculo['ano_veiculo'];?></div>
-              <div class="item_veiculo"><input type="submit" id="btn_alugar" name="btn_alugar" value="ALUGAR"></div>
+              <a href="alugar.php?codigo_veiculo=<?php echo $dados_veiculo['codigo_veiculo'];?>">
+                        <input type="submit" value="ALUGAR">
+                    </a>
           </li>
           <?php } ?>
       </ul>
