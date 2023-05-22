@@ -1,4 +1,4 @@
-# Projeto_HTML-CSS
+# Locadora de Veiculos
 
 Sistema de Gerenciamento de veiculos para uma locadora:
 consiste em ter uma pagina para o cliente realizar a consulta e o aluguel do veiculo
