@@ -11,7 +11,7 @@ A aplicaçãoConsiste em ter uma pagina para o cliente realizar a consulta e o a
 e para o administrador, paginas de: cadastro veiculo, atualizar veiculo, remover veiculo, consultar veiculo.
 
 ## Layout mobile
-![Projeto img](https://github.com/Gustrevasx/Projeto_HTML-CSS/issues/1) ![Mobile 2]()
+![Projeto img](https://github.com/Gustrevasx/Projeto_HTML-CSS/blob/main/2023-05-22%20(1).png) ![Mobile 2]()
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
