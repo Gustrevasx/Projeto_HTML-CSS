@@ -1,23 +1,14 @@
 # Locadora de Veiculos
 
 Sistema de Gerenciamento de veiculos para uma locadora:
-consiste em ter uma pagina para o cliente realizar a consulta e o aluguel do veiculo
-e para o administrador, paginas de: cadastro veiculo, atualizar veiculo, remover veiculo, consultar veiculo. 
 
-<div align="center">
-<img src="![2023-05-22](https://github.com/Gustrevasx/Projeto_HTML-CSS/assets/93698076/04e67a4a-163d-41b5-be1a-7dc63ecfde3c)
-" width="700px" />
-</div>
-# Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
-# Sobre o projeto
+# Sobre o projeto 
 
-https://wmazoni-sds1.netlify.app
+Locadora de Veiculos é uma aplicação full stack web e mobile construída e desenvolvida para um projeto no curso da faculdade de CIENCIA DA COMPUTAÇAO. 
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicaçãoConsiste em ter uma pagina para o cliente realizar a consulta e o aluguel do veiculo
+e para o administrador, paginas de: cadastro veiculo, atualizar veiculo, remover veiculo, consultar veiculo.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
@@ -28,61 +19,53 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+FALTA ADICIONAR
 
 # Tecnologias utilizadas
 ## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+- SQL MYSQL 
+- PHP
+- JAVA SCRIPT
+- PHP MY ADMIN
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- HTML  
+- CSS  
+- JS 
+
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- Back end: ainda nao hospedado
+- Front end web: ainda nao hospedado
+- Banco de dados: SGBD USADO  MYSQL 
 
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Feito em PHP, JAVASCRIPT.  
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+
 
 # entrar na pasta do projeto back end
 cd backend
 
 # executar o projeto
-./mvnw spring-boot:run
-```
+localhost:8080/Loginlocadora/ 
 
 ## Front end web
-Pré-requisitos: npm / yarn
+Pré-requisitos: ter o xampp, wamp server ou algum software para hospedagem local.  
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+
+
 
 # entrar na pasta do projeto front end web
-cd front-web
+Loginlocadora/ 
 
-# instalar dependências
-yarn install
 
-# executar o projeto
-yarn start
-```
+
+
+
 
 # Autor
+Gustavo Breno Da Silva Braz 
 
-Wellington Mazoni de Andrade
 
-https://www.linkedin.com/in/wmazoni
 
